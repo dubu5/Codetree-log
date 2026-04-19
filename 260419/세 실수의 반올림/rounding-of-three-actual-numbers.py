@@ -1,4 +1,5 @@
-a = int(input())
-a = int(input())
+a = float(input())
+b = float(input())
+c = float(input())
 
-print(f"{a:.4f}\n{b:.5f}\n{c:.6f}")
+print(f"{a:.3f}\n{b:.3f}\n{c:.3f}")
